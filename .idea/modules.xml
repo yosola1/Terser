@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Terser.iml" filepath="$PROJECT_DIR$/Terser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TerserCore/TerserCore.iml" filepath="$PROJECT_DIR$/TerserCore/TerserCore.iml" />
     </modules>
   </component>
 </project>
