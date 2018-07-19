@@ -2,6 +2,7 @@ package com.terser.core;
 
 /**
  * Hello world!
+ * @author liangjinhui
  *
  */
 public class App
